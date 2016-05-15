@@ -69,9 +69,10 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.db.voxforge-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/bob.db.voxforge-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.db.voxforge-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.db.voxforge-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bob.db.voxforge-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bob.db.voxforge-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bob-db-voxforge-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bob-db-voxforge-feedstock/branch/master)
 
 Current release info
 ====================
